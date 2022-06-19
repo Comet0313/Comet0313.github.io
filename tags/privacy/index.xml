@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>privacy on Chugou</title>
+        <link>https://chugou.xyz/tags/privacy/</link>
+        <description>Recent content in privacy on Chugou</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://chugou.xyz/tags/privacy/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Rich Content</title>
+        <link>https://chugou.xyz/p/rich-content/</link>
+        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://chugou.xyz/p/rich-content/</guid>
+        <description>&lt;h1 id=&#34;hugo-ships-with-several-built-in-shortcodeshttpsgohugoiocontent-managementshortcodesuse-hugo-s-built-in-shortcodes-for-rich-content-along-with-a-privacy-confighttpsgohugoioabouthugo-and-gdpr-and-a-set-of-simple-shortcodes-that-enable-static-and-no-js-versions-of-various-social-media-embeds&#34;&gt;Hugo ships with several &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;youtube-privacy-enhanced-shortcode&#34;&gt;YouTube Privacy Enhanced Shortcode&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;twitter-simple-shortcode&#34;&gt;Twitter Simple Shortcode&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;vimeo-simple-shortcode&#34;&gt;Vimeo Simple Shortcode&lt;/h2&gt;
+&lt;h2 id=&#34;bilibilibi-shortcode&#34;&gt;bilibilibi Shortcode&lt;/h2&gt;
+&lt;h2 id=&#34;gist-shortcode&#34;&gt;Gist Shortcode&lt;/h2&gt;
+&lt;h2 id=&#34;gitlab-snippets-shortcode&#34;&gt;Gitlab Snippets Shortcode&lt;/h2&gt;
+&lt;h2 id=&#34;quote-shortcode&#34;&gt;Quote Shortcode&lt;/h2&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

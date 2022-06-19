@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on Chugou</title>
+        <link>https://chugou.xyz/tags/</link>
+        <description>Recent content in Tags on Chugou</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://chugou.xyz/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>css</title>
+        <link>https://chugou.xyz/tags/css/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://chugou.xyz/tags/css/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>html</title>
+        <link>https://chugou.xyz/tags/html/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://chugou.xyz/tags/html/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>markdown</title>
+        <link>https://chugou.xyz/tags/markdown/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://chugou.xyz/tags/markdown/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>themes</title>
+        <link>https://chugou.xyz/tags/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://chugou.xyz/tags/themes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>privacy</title>
+        <link>https://chugou.xyz/tags/privacy/</link>
+        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://chugou.xyz/tags/privacy/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>shortcodes</title>
+        <link>https://chugou.xyz/tags/shortcodes/</link>
+        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://chugou.xyz/tags/shortcodes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>ماركداون</title>
+        <link>https://chugou.xyz/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://chugou.xyz/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>نص</title>
+        <link>https://chugou.xyz/tags/%D9%86%D8%B5/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://chugou.xyz/tags/%D9%86%D8%B5/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>وسم مع فراغات</title>
+        <link>https://chugou.xyz/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://chugou.xyz/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>emoji</title>
+        <link>https://chugou.xyz/tags/emoji/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://chugou.xyz/tags/emoji/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
